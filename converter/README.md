@@ -1,3 +1,6 @@
+### О программе
+Программа ведет подсчет и ранжирование (по возрастной категории) пациентов из XML-файла и сохраняет полученную статистику в таблицу Excel.
+
 ### Установка:  
 1. [Padre IDE](https://ru.perlmaven.com/ustanovka-i-nachalo-raboty-s-perl)  
    [ActivePerl](http://www.activestate.com/activeperl)  
